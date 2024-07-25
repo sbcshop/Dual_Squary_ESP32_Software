@@ -47,20 +47,21 @@ This github provides getting started guide for Dual Squary ESP32.
 
 | Main Side | Common Side |  
 |---|---|
-| (1) Female Header 			| (8) Male Header			 |  
-| (2) Reset Button			| (9) Power Status LED			 | 
-| (3) ESP32 S3 Wroom 1			| (10), (13), (15) & (18) WS2812 RGB LED |		
-| (4) Programmable Buttons		| (11) Battery Connector		 |
-| (5) Type C				| (12) GPIOs Breakout			 |
-| (6) Boot Button			| (14) Charging Status LED		 |
+| (1) Boot Button			| (8), (11) & (13) WS2812 RGB LED	 |  
+| (2) Female Header			| (9) Charging Status LED		 | 
+| (3) Reset Button			| (10) Male Header			 |		
+| (4) Type C				| (12) TFcard slot 			 |
+| (5) Programmable Buttons 		| (14) Power Status LED			 |
+| (6) ESP32 S3 Wroom 1			| (15) Battery Connector		 |
 | (7) 1.54” TFT Display			| (16) QMI8658C 6D IMU Sensor 		 |
-|					| (17) TFcard slot 			 |
+|					| (17) GPIO’s Breakout			 |
 
 ### Connecting Main and Common board 
 
 Hold Main and common board as shown below and then connect both using provided Male and female header
 
-<img src= ""  width="" height="" >
+
+<img src= "https://github.com/sbcshop/Dual_Squary_ESP32_Software/blob/main/images/combine_Dual_Squary_ESP32.gif"  width="837" height="250" >
 
 ### Interfacing Details
 
@@ -147,7 +148,8 @@ When you connect both Main and common board together following pins of ESP32 S3 
      
    - On Dual Squary for ESP32 we have Native USB for programming purpose, so you will have to press BOOT button once and then connect Type C. Next time no need, but if facing any issue with COM Port detection the repeat BOOT button step.
 
-     <img src="https://github.com/sbcshop/Dual_Squary_ESP32_Software/blob/main/images/dual_Squary_ESP32_bootBTN.gif" width="338" height="314">
+
+     <img src="https://github.com/sbcshop/Dual_Squary_ESP32_Software/blob/main/images/dual_squary_ESP32_bootBTN.gif" width="338" height="314">
      
    - When using USB native you will get COM PORT as shown in below image, and while uploading you can enable CDC Mode to visualize data on serial com port.
      
