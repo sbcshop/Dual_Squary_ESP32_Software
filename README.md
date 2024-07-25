@@ -176,7 +176,7 @@ When you connect both Main and common board together following pins of ESP32 S3 
    Using this sample code as a guide, you can modify, build, and share codes!!
 
 ## Resources
-  * [Main ESP32 Schematic](https://github.com/sbcshop/Dual_Squary_ESP32_Hardware/blob/main/Design%20Data/SCH%20Dual%20Squary%20esp32%20Main.pdf)
+  * [Main ESP32 Schematic](https://github.com/sbcshop/Dual_Squary_ESP32_Hardware/blob/main/Design%20Data/Sch_Dual_Squary_ESP32_Main.pdf)
   * [Common Board Schematic](https://github.com/sbcshop/Dual_Squary_ESP32_Hardware/blob/main/Design%20Data/SCH_Dual_Square_Common.pdf)
   * [Mechanical Files](https://github.com/sbcshop/Dual_Squary_ESP32_Hardware/tree/main/Mechanical%20Data)
   * [Getting Started with ESP32 in Arduino](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
