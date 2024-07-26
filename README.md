@@ -45,13 +45,13 @@ This github provides getting started guide for Dual Squary ESP32.
 ### Pinout
 <img src= "https://github.com/sbcshop/Dual_Squary_ESP32_Software/blob/main/images/Dual_Squary_ESP32_Pinout.jpg" />
 
-| Main Side | Common Side |  
+| Main Board | Common Board |  
 |---|---|
-| (1) Boot Button			| (8), (11) & (13) WS2812 RGB LED	 |  
-| (2) Female Header			| (9) Charging Status LED		 | 
-| (3) Reset Button			| (10) Male Header			 |		
-| (4) Type C				| (12) TFcard slot 			 |
-| (5) Programmable Buttons 		| (14) Power Status LED			 |
+| (1) Programmable Button		| (8), (11) & (13) WS2812 RGB LED	 |  
+| (2) Type C				| (9) Charging Status LED		 | 
+| (3) Boot Button			| (10) Male Header			 |		
+| (4) Female Header			| (12) TFcard slot 			 |
+| (5) Reset Buttons 			| (14) Power Status LED			 |
 | (6) ESP32 S3 Wroom 1			| (15) Battery Connector		 |
 | (7) 1.54” TFT Display			| (16) QMI8658C 6D IMU Sensor 		 |
 |					| (17) GPIO’s Breakout			 |
