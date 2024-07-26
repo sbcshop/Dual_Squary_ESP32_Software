@@ -67,8 +67,6 @@ Hold Main and common board as shown below and then connect both using provided M
 
 When you connect both Main and common board together following pins of ESP32 S3 interface with various onboard hardware,
 
-### Interfacing Details
-
  - **_Display interfacing with ESP32_**
 	
    | ESP32 | Display | Function |
