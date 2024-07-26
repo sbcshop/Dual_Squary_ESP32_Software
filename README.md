@@ -125,7 +125,7 @@ When you connect both Main and common board together following pins of ESP32 S3 
   |3V3  | P     | Positive Supply, 3.3V |
   |IO43  | I/O/T | U0TXD, **_GPIO43_**, CLK_OUT1  |
   |IO44  | I/O/T | U0RXD,_**GPIO44**_, CLK_OUT2 |  
-  |GND   | P     | Supply GSquare |
+  |GND   | P     | Supply GND |
   
   *I-INPUT, O-OUTPUT, P-POWER & T-HIGH IMPEDENCE
 
